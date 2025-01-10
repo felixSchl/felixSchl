@@ -6,12 +6,12 @@
 
 <h2>Recent Projects</h2>
 
-### [Shopster](https://www.shopster.nz)
+### [MyGroceries](https://www.mygroceries.nz)
 
 A grocery price comparison platform tailored for New Zealanders, enabling users
 to find the best deals across local grocery stores.
 
-[![Shopster Screenshot](images/shopster.png)](https://www.shopster.nz)
+[![MyGroceries Screenshot](images/shopster.png)](https://www.mygroceries.nz)
 
 ---
 
