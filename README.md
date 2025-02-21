@@ -7,8 +7,8 @@
 <h2>Recent Projects</h2>
 
 * **[MyGroceries](https://www.mygroceries.nz)** - A grocery price comparison platform tailored for New Zealanders, enabling users to find the best deals across local grocery stores.
-* **[Agreeable](https://agreeable.co.nz)** - Get a certified agreement online.  Save time & money.  Build it with us, then certify with our expert lawyers – all without leaving home.
-* **[Child Support Calculator](https://www.childsupportcalculator.nz)** - Calculate your New Zealand child support payments accurately and easily. This free calculator helps you estimate formula assessments, understand shared care arrangements, and plan your finances using the latest IRD rates.
+* **[Agreeable](https://agreeable.co.nz)** - Online platform to create legally binding agreements between agreeable couples.
+* **[Child Support Calculator](https://www.childsupportcalculator.nz)** - NZ Child Support calculator built based off the Child Support Act & IRD guidelines
 
 ---
 
