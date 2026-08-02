@@ -7,6 +7,7 @@
 <h2>Recent Projects</h2>
 
 * **[IronGains](https://www.irongains.app)** - Proven strength and hypertrophy programs with automatic progression, and dead-simple set logging that keeps the plan visible and stays out of your way.
+* **[ShelfScout](https://www.shelfscout.nz)** - Find & watch best grocery prices in NZ
 * **[Agreeable](https://agreeable.co.nz)** - Online platform to create legally binding agreements between agreeable couples.
 * **[Child Support Calculator](https://www.childsupportcalculator.nz)** - NZ Child Support calculator built based off the Child Support Act & IRD guidelines
 
